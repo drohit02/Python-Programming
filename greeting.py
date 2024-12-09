@@ -1,4 +1,9 @@
 name = input(str("What is your name : "))
 print("Hello,",name)
-print("Good morning !!!")
 
+"""
+Representation of the print function in python
+print(*object,sep='',file=sys.stdout,flush=False)
+"""
+
+print("Good morning !!!")
